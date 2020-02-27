@@ -1,0 +1,7 @@
+com\trinity\search\IndexSearch.class
+com\trinity\search\CreateIndex.class
+com\trinity\analyzer\SynonymAnalyzer.class
+com\trinity\analyzer\SynonymEngine.class
+com\trinity\analyzer\SynonymFilter.class
+com\trinity\analyzer\SimpleSynonymEngine.class
+com\trinity\utils\ConfigUtil.class
